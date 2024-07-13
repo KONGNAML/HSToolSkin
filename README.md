@@ -11,7 +11,7 @@ HSToolSkin is a plugin that uses the Spigot API to apply skins to Minecraft tool
 
 ## Installation
 
-1. Download the latest version from the [Release page](https://github.com/username/HSToolSkin/releases).
+1. Download the latest version from the [Release page](https://github.com/KONGNAML/HSToolSkin/releases).
 2. Place the downloaded JAR file into the `plugins` folder of your server.
 3. Restart the server to activate the plugin.
 
